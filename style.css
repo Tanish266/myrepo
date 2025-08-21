@@ -5,6 +5,7 @@ body {
   font-family: Arial, sans-serif;
   /* Sets a clean, modern font for the body text */
   color: white;
+  display: block;
 }
 
 h1 {
